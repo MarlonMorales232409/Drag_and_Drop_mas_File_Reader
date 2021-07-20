@@ -1,0 +1,21 @@
+.zona-arrastre{
+    text-align: center;
+    font-family: sans-serif;
+    border: dashed 4px #888;
+    width: 500px;
+    padding: 70px;
+    margin: 50px auto;
+    color: #888;
+}
+
+.resultado{
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    max-width: 500px;
+    margin: 50px auto;
+    border: solid 2px #000;
+    border-radius: 5px;
+}
